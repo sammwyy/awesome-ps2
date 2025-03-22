@@ -2,21 +2,39 @@
 
 Awesome list of PlayStation 2 homebrew, tools and games.
 
+## Games
+
+- [GuitarFun](https://www.psx-place.com/threads/guitar-fun.13424/) A Guitar Hero clone for the PS2.
+- [Quake](https://www.psx-place.com/threads/quake-for-ps2.11192/) Quake for PS2.
+
 ## Launchers
 
 - [Neutrino](https://github.com/rickgaiser/neutrino) Small, Fast and Modular PS2 Device Emulator.
 - [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader) Open-source game and application loader for the PS2.
-- [E2OPL](https://sourceforge.net/projects/e2opl/) Open PS2 Loader with EXT2 file system support (USB). 
+- [E2OPL](https://sourceforge.net/projects/e2opl/) Open PS2 Loader with EXT2 file system support (USB).
 - [OSDSYS-Launcher](https://github.com/HowlingWolfHWC/OSDSYS-Launcher) Tool that allows users of PS2 consoles with BIOS v2.30+ to launch OSDSYS updates.
 - [PS2-BB](https://github.com/israpps/PlayStation2-Basic-BootLoader) Basic Bootloader for PS2, PSX-DESR and Namco System 246/256.
+- [RetroLauncher](https://www.psx-place.com/threads/retrolauncher-launcher-created-on-enceladus-for-retroarch-popstarter-neutrino-and-wlaunchelf-isr.44526/) Launcher created on Enceladus for Retroarch,POPStarter, Neutrino and wLaunchELF ISR
 - [wLaunchELF](https://github.com/ps2homebrew/wLaunchELF) ELF loader and file manager for the PS2.
+- [XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/) An alternative to FMCB with XMB (PS3 style) menu.
+- [XEB+ Neutrino Plugin](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin) XEB+ Neutrino Plugin.
 
 ## Loader / Exploits
 
 - [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) An exploit that enables the PS2 to run homebrew applications from a burned DVD.
-- [FreeHDBoot](https://sites.google.com/view/ysai187/home/projects/fmcbfhdb) Homebew software that allows the PS2 to boot unsigned code from a Hard Disk.
-- [FreeMCBoot](https://github.com/TnA-Plastic/FreeMcBoot) Homebew software that allows the PS2 to boot unsigned code from a memory card.
+- [FreeHDBoot](https://sites.google.com/view/ysai187/home/projects/fmcbfhdb) Homebrew software that allows the PS2 to boot unsigned code from a Hard Disk.
+- [FreeMCBoot](https://github.com/TnA-Plastic/FreeMcBoot) Homebrew software that allows the PS2 to boot unsigned code from a memory card.
+- [Funtuna Fork](https://www.psx-place.com/threads/funtuna-fork.32555/) A combination of ps2 software that was designed to ease the pain of getting a stable exploit.
 - [OpenTuna](https://www.psx-place.com/threads/opentuna-an-open-source-version-of-fortuna-based-on-reverse-engineering.33010/) An improved version of Fortuna, compatible with more PS2 models and offering better stability.
+
+## Multimedia
+
+- [Simple Media System (SMS)](https://www.psx-place.com/threads/sms-simple-media-system-2-9-rev-4.10820/) All-in-One media center for the Playstation 2.
+
+## Misc / Utilities
+
+- [CheatDevice](https://www.psx-place.com/threads/cheat-device-continuation.40824/) A Game enhancer for PlayStation 2 similar to Action Replay, GameShark, and CodeBreaker.​
+- [HDLBatchInstaller](https://www.psx-place.com/threads/hdl-batch-installer.34063/) GUI (graphical user interface) designed to install games into a PS2 internal HDD.
 
 ## PC Tools
 
@@ -25,7 +43,7 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 ## SDKs and Toolchains
 
 - [PS2SDK](https://github.com/ps2dev/ps2sdk) Open-source development kit for creating homebrew software for the PS2.
-- [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) Toolkit for creating homebrew software for the PS2 using JavaScript. 
+- [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) Toolkit for creating homebrew software for the PS2 using JavaScript.
 - [Encedalus](https://github.com/DanielSant0s/Enceladus) Toolkit for creating homebrew software for the PS2 using Lua.
 - [Prussia](https://github.com/Ravenslofty/prussia) Reimplementation of the PS2 SDK in Rust.
 - [Tyra](https://github.com/h4570/tyra/) Framework for developing homebrew games for the PS2 using C++.
@@ -46,11 +64,11 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 - [PSMS Reloaded](https://www.brunofreitas.com/node/25) Gamegear
 - [PicoDrive](https://mundoihack.com/tag/picodrive-mastersystem-libretro/) Sega Master System
 - [PGen](https://github.com/ps2homebrew/pgen) Sega Genesis
-- [NeoCD](https://mundowiihack.wordpress.com/tag/neocd-ps2-v0-6c) NeoGeo CD ⚠️ 
-- [NeoPop](https://mundoihack.com/tag/neopopps2/) NeoGeo Pocket ⚠️ 
-- [DaedalusX64](https://www.ps2-home.com/forum/viewtopic.php?f=99&p=39957#p39957) Nintendo 64 ⚠️ 
-- [PS2PCE](https://mundoihack.com/tag/ps2pce/) PC Engine ⚠️ 
-- [POPStarter](https://www.ps2-home.com/forum/viewtopic.php?f=19&t=1819) PlayStation 1 
+- [NeoCD](https://mundowiihack.wordpress.com/tag/neocd-ps2-v0-6c) NeoGeo CD ⚠️
+- [NeoPop](https://mundoihack.com/tag/neopopps2/) NeoGeo Pocket ⚠️
+- [DaedalusX64](https://www.ps2-home.com/forum/viewtopic.php?f=99&p=39957#p39957) Nintendo 64 ⚠️
+- [PS2PCE](https://mundoihack.com/tag/ps2pce/) PC Engine ⚠️
+- [POPStarter](https://www.ps2-home.com/forum/viewtopic.php?f=19&t=1819) PlayStation 1
 - [PS2PSXe](https://mundoihack.com/tag/ps2psxe/) PlayStation 1 ⚠️
 - [SNES Station](https://www.ps2-home.com/forum/viewtopic.php?f=99&t=9661) SNES
 - [SNESticle](https://www.psx-place.com/resources/snesticle.1216/)
