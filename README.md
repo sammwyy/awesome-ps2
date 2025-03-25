@@ -17,7 +17,7 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 - [Open USB Loader](https://www.ps2-home.com/forum/viewtopic.php?f=83&t=3047) (Formerly USB Loader) Open-source app loader for the PS2.
 - [OSDSYS-Launcher](https://github.com/HowlingWolfHWC/OSDSYS-Launcher) Tool that allows users of PS2 consoles with BIOS v2.30+ to launch OSDSYS updates.
 - [OSD-XMB](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=13792) Replacement for the PS2's default OSD menu, inspired by the XrossMediaBar (XMB).
-- [PS2-BB](https://github.com/israpps/PlayStation2-Basic-BootLoader) Basic Bootloader for PS2, PSX-DESR and Namco System 246/256.
+- [PS2-BBL](https://github.com/israpps/PlayStation2-Basic-BootLoader) Basic Bootloader for PS2, PSX-DESR and Namco System 246/256.
 - [PS2Link](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=9448) 'Bootloader' which used together with an Ethernet driver and a TCP/IP stack to launch apps.
 - [RadMenu](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=5589) A customizable homebrew launcher.
 - [RetroLauncher](https://www.psx-place.com/threads/retrolauncher-launcher-created-on-enceladus-for-retroarch-popstarter-neutrino-and-wlaunchelf-isr.44526/) Launcher created on Enceladus for Retroarch,POPStarter, Neutrino and wLaunchELF ISR
