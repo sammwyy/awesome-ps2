@@ -9,11 +9,17 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 
 ## Launchers
 
+- [ESR](https://www.ps2-home.com/forum/viewtopic.php?f=10&t=15) Homebrew software that allows users to run backup copies of PS2 games directly from burned DVDs
 - [Neutrino](https://github.com/rickgaiser/neutrino) Small, Fast and Modular PS2 Device Emulator.
 - [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader) Open-source game and application loader for the PS2.
 - [E2OPL](https://sourceforge.net/projects/e2opl/) Open PS2 Loader with EXT2 file system support (USB).
+- [NHDDL](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=13687) A PS2 exFAT BDM launcher for Neutrino.
+- [Open USB Loader](https://www.ps2-home.com/forum/viewtopic.php?f=83&t=3047) (Formerly USB Loader) Open-source app loader for the PS2.
 - [OSDSYS-Launcher](https://github.com/HowlingWolfHWC/OSDSYS-Launcher) Tool that allows users of PS2 consoles with BIOS v2.30+ to launch OSDSYS updates.
+- [OSD-XMB](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=13792) Replacement for the PS2's default OSD menu, inspired by the XrossMediaBar (XMB).
 - [PS2-BB](https://github.com/israpps/PlayStation2-Basic-BootLoader) Basic Bootloader for PS2, PSX-DESR and Namco System 246/256.
+- [PS2Link](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=9448) 'Bootloader' which used together with an Ethernet driver and a TCP/IP stack to launch apps.
+- [RadMenu](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=5589) A customizable homebrew launcher.
 - [RetroLauncher](https://www.psx-place.com/threads/retrolauncher-launcher-created-on-enceladus-for-retroarch-popstarter-neutrino-and-wlaunchelf-isr.44526/) Launcher created on Enceladus for Retroarch,POPStarter, Neutrino and wLaunchELF ISR
 - [wLaunchELF](https://github.com/ps2homebrew/wLaunchELF) ELF loader and file manager for the PS2.
 - [XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/) An alternative to FMCB with XMB (PS3 style) menu.
@@ -24,21 +30,40 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 - [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) An exploit that enables the PS2 to run homebrew applications from a burned DVD.
 - [FreeHDBoot](https://sites.google.com/view/ysai187/home/projects/fmcbfhdb) Homebrew software that allows the PS2 to boot unsigned code from a Hard Disk.
 - [FreeMCBoot](https://github.com/TnA-Plastic/FreeMcBoot) Homebrew software that allows the PS2 to boot unsigned code from a memory card.
+- [FMCB/FHDB Installer](https://www.ps2-home.com/forum/viewtopic.php?f=11&t=1890) Free Memory Card Boot (FMCB) and Free Hard Disk Boot (FHDB) installer
+- [Fortuna](https://www.ps2-home.com/forum/viewtopic.php?f=120&t=8542) Homebrew launcher for PS2 models. It allows you to run your own homebrews.
+- [Funtuna](https://www.ps2-home.com/forum/viewtopic.php?f=129&t=9991) FreeMCBoot (FMCB) for Fortuna Exploit.
 - [Funtuna Fork](https://www.psx-place.com/threads/funtuna-fork.32555/) A combination of ps2 software that was designed to ease the pain of getting a stable exploit.
 - [OpenTuna](https://www.psx-place.com/threads/opentuna-an-open-source-version-of-fortuna-based-on-reverse-engineering.33010/) An improved version of Fortuna, compatible with more PS2 models and offering better stability.
+- [MechaPwn](https://github.com/MechaResearch/MechaPwn) Unlocks region restrictions, allows backup game execution, and enables full access to the console's disk reader.
 
 ## Multimedia
 
+- [Argon](https://www.ps2-home.com/forum/viewtopic.php?f=14&t=76) Simple Media System based player with XMB GUI for the PS2.
+- [PS2Reality Mediaplayer](https://www.ps2-home.com/forum/viewtopic.php?f=27&t=3099) An (obsolete) media player for the PS2.
 - [Simple Media System (SMS)](https://www.psx-place.com/threads/sms-simple-media-system-2-9-rev-4.10820/) All-in-One media center for the Playstation 2.
 
 ## Misc / Utilities
 
+- [Artemis](https://www.ps2-home.com/forum/viewtopic.php?f=58&t=1105) PS2 app that allows a user to dump PS2 memory repeatedly during game play.
 - [CheatDevice](https://www.psx-place.com/threads/cheat-device-continuation.40824/) A Game enhancer for PlayStation 2 similar to Action Replay, GameShark, and CodeBreaker.​
+- [GSM](https://www.ps2-home.com/forum/viewtopic.php?f=12&t=53) Homebrew utility for the PlayStation 2 (PS2) that allows users to change the video output mode of the console
 - [HDLBatchInstaller](https://www.psx-place.com/threads/hdl-batch-installer.34063/) GUI (graphical user interface) designed to install games into a PS2 internal HDD.
+- [Memory Card Annihilator](https://www.ps2-home.com/forum/viewtopic.php?f=69&t=116) Homebrew tool for formatting/unformatting memory cards.
+- [NetSurf](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=8665) A web browser for the PlayStation 2.
+- [PS2IRC](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=1418) A basic IRC client for the PS2.
+- [PS2 Linux Live CD](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=8660) A live linux distribution for the PS2.
+- [Reboot](https://www.ps2-home.com/forum/viewtopic.php?f=11&t=13934) Reboots the PS2.
 
 ## PC Tools
 
+- [Bmp2Icon](https://www.ps2-home.com/forum/viewtopic.php?f=58&t=7074) Tool which will take a 128x128 24-bit bitmap, and convert it into a PS2 memory card icon file.
+- [DockerSMB](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=9507) Can be used to quick setup a simple Samba container in host network mode.
+- [Mastercode Finder](https://www.ps2-home.com/forum/viewtopic.php?f=27&t=92) Tool to assists users in identifying master codes required for creating or using cheat codes.
 - [OPL Manager](https://oplmanager.com/) A PC application for manage OPL instances.
+- [PS2Klient](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=5016) GUI wrapper for the classic PS2Client.
+- [PlayLua](https://www.ps2-home.com/forum/viewtopic.php?f=58&t=4505) IDE for create games for PS2 and more.
+- [USBUtil](https://www.ps2-home.com/forum/viewtopic.php?f=125&t=1240) A tool commonly used for managing and converting game files for the PlayStation 2 (PS2) when using a USB storage device.
 
 ## SDKs and Toolchains
 
