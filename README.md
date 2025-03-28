@@ -2,10 +2,25 @@
 
 Awesome list of PlayStation 2 homebrew, tools and games.
 
+## 📄 Index
+
+- 🎮 [Games](#games)
+- 🚀 [Launchers](#launchers)
+- 🧨 [Loader / Exploits](#loader--exploits)
+- 📺 [Multimedia](#multimedia)
+- 🛠️ [Misc / Utilities](#misc--utilities)
+- 💻 [PC Tools](#pc-tools)
+- 🧩 [SDKs and Toolchains](#sdks-and-toolchains)
+- 💿 [Emulators](#emulators)
+- 🔨 [Hard Mods](#hard-mods)
+
 ## Games
 
+- [3DPinball](https://www.psx-place.com/resources/3d-pinball-space-cadet-for-ps2.1412/) A 3D Cadet Pinball port for the PS2.
 - [GuitarFun](https://www.psx-place.com/threads/guitar-fun.13424/) A Guitar Hero clone for the PS2.
 - [Quake](https://www.psx-place.com/threads/quake-for-ps2.11192/) Quake for PS2.
+- [Super Mario 64](https://github.com/fgsfdsfgs/sm64-port/tree/ps2) Super Mario 64 (Native Port) for PS2.
+- [SupeTux](https://www.psx-place.com/resources/supertux.1235/) SupeTux for PS2.
 
 ## Launchers
 
@@ -45,6 +60,7 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 
 ## Misc / Utilities
 
+- [Apollo Save Tool](https://github.com/bucanero/apollo-ps2) Application to manage save-game files on the PlayStation 2.
 - [Artemis](https://www.ps2-home.com/forum/viewtopic.php?f=58&t=1105) PS2 app that allows a user to dump PS2 memory repeatedly during game play.
 - [CheatDevice](https://www.psx-place.com/threads/cheat-device-continuation.40824/) A Game enhancer for PlayStation 2 similar to Action Replay, GameShark, and CodeBreaker.​
 - [GSM](https://www.ps2-home.com/forum/viewtopic.php?f=12&t=53) Homebrew utility for the PlayStation 2 (PS2) that allows users to change the video output mode of the console
@@ -61,6 +77,7 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 - [DockerSMB](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=9507) Can be used to quick setup a simple Samba container in host network mode.
 - [Mastercode Finder](https://www.ps2-home.com/forum/viewtopic.php?f=27&t=92) Tool to assists users in identifying master codes required for creating or using cheat codes.
 - [OPL Manager](https://oplmanager.com/) A PC application for manage OPL instances.
+- [PS2-Covers](https://github.com/xlenore/ps2-covers) A repository collection of PS2 game covers.
 - [PS2Klient](https://www.ps2-home.com/forum/viewtopic.php?f=107&t=5016) GUI wrapper for the classic PS2Client.
 - [PlayLua](https://www.ps2-home.com/forum/viewtopic.php?f=58&t=4505) IDE for create games for PS2 and more.
 - [USBUtil](https://www.ps2-home.com/forum/viewtopic.php?f=125&t=1240) A tool commonly used for managing and converting game files for the PlayStation 2 (PS2) when using a USB storage device.
@@ -100,10 +117,18 @@ Awesome list of PlayStation 2 homebrew, tools and games.
 - [WonderStation](https://www.psx-place.com/resources/wonderstation-oswan-ps2.448/) WonderSwan / WonderStation color
 - [RetroArch](https://www.retroarch.com/?page=platforms) Multi system emulator
 - [PS2Mame](https://mundoihack.com/tag/ps2mame/) MAME
-- [AmigaPS2](https://www.ps2-home.com/forum/viewtopic.php?t=2094) Amiga
+- [UAE AmigaPS2](https://www.ps2-home.com/forum/viewtopic.php?t=2094) Amiga
 - [PS2 DC64](https://classicgaming.dcemulation.org/) Commodore 64
 - [DOSBox](https://emulation.gametechwiki.com/index.php/DOSBox) DOS x86
 - [PS2-CHIP8](https://github.com/jmgk77/CHIP8) CHIP8
 - [PS2 ScummVM](https://wiki.scummvm.org/index.php?title=PlayStation_2) ScummVM
 
 > ⚠️: Bad performance or WIP.
+
+## Hard Mods
+
+- [MX4SIO/SIO2SD](https://www.psx-place.com/threads/mx4sio-sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/) SD Card Adapter and SD-driver for the PS2 SIO2 interface.
+- [Sata HDD Adapter](https://consolemods.org/wiki/PS2:SATA_Board_for_LAN_Adapter) SATA Board for LAN Adapter
+- [IDE/SATA HDD Mods (70xxx)](https://consolemods.org/wiki/PS2:Hard_Drive_Compatibility) IDE/SATA Hard Drive Compatibility
+- [Retro Gem HDMI](https://www.pixelfx.co/hdmi-retro-gem) A retro HDMI upscaler for the PS2.
+- [PS2 Mod-chip Files](https://github.com/m4x10187/ps2-modchip-files) Firmware and dumps for various PS2 mod-chips.
